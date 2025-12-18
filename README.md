@@ -36,7 +36,7 @@ Designed for scalable surveillance systems and real-time video analytics.
    ```bash
    python detect_fall.py
 
-- note :
+## note :
   - dont forget to change the directories of the model and any other directory in the project
   - and dont forget to run mongodb database before running the project
   - and the models you can use whatever model you want even a custome one but dont forget the model extension
