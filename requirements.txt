@@ -1,0 +1,11 @@
+--extra-index-url download.pytorch.org
+fastapi==0.121.2
+uvicorn==0.38.0
+motor==3.7.1
+ultralytics==8.3.236
+ultralytics-thop==2.0.18
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+numpy==1.26.4
