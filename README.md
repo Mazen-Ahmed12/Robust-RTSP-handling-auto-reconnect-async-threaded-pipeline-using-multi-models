@@ -34,7 +34,7 @@ Designed for scalable surveillance systems and real-time video analytics.
    pip install -r requirements.txt
 3. Run the detection script:
    ```bash
-   python detect_fall.py
+   python app.py
 
 ## note 
   - dont forget to change the directories of the model and any other directory in the project
